@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shangwei Guo - CQU   "
 title_separator          : "-"
-name                     : &name "GSW"
+name                     : &name "Shangwei"
 description              : &description "personal description :)"
 url                      : 'https://guoshangwei.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shangwei Guo"
   avatar           : "Guo.png"
-  bio              : "Associate Professor, Chongqing University"
+  bio              : "Associate Professor Chongqing University"
   location         : "CQU,CHONQING"
   employer         : #"Guoshang wei"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

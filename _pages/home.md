@@ -21,16 +21,16 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
-![](../images/new.gif) August 2021: Our paper "Topology-aware Differential Privacy for Decentralized Image Classification" accepted by TCSVT (CCF-B)！
+![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (CCF-B)！
 
-![](../images/new.gif) July 2021: Our paper "PRNet: A Progressive Recovery Network for Revealing Perceptually Encrypted Images" accepted by ACM MM (CCF-A)!
+![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (CCF-A)!
 
-![](../images/new.gif) April 2021: Our paper "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models" accepted by IJCAI (CCF-A)!
+![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (CCF-A)!
 
-![](../images/new.gif) April 2021: Our paper "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by TC (CCF-A)!
+![](../images/new.gif) Apr. 2021: one paper accepted by TC (CCF-A)!
 
-![](../images/new.gif) April 2021: Our paper "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by TC (CCF-A)!
+![](../images/new.gif) Apr. 2021: one paper accepted by TC (CCF-A)!
 
-![](../images/new.gif) March 2021: Our paper "Privacy-preserving Collaborative Learning with Automatic Transformation Search" accepted by CVPR <font  color=red >Oral</font> (CCF-A)!
+![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (CCF-A)!
 
-![](../images/new.gif) February 2021: Two papers accepted by AsiaCCS!
+![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS!
