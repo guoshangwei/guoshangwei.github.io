@@ -8,16 +8,23 @@ redirect_from:
 ---
 
 * Technical Program Committee:  
-  -  ACM ASIA Conference on Computer and Communications Security (AsiaCCS): 2021, 2022    
-  -  IEEE International Symposium on Secure and Private Execution Environment Design (SEED): 2021    
-  -  International Conference on Information and Communications Security (ICICS): 2019, 2020, 2021    
-  -  Silicon Valley Cybersecurity Conference (SVCC): 2020, 2021    
-  -  ACM Cloud Computing Security Workshop (CCSW): 2019, 2020    
-  -  Hardware and Architecture Support for Security and Privacy (HASP): 2018, 2019, 2020    
-  -  International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP): 2020    
-  -  IEEE International Conference on Distributed Computing Systems (ICDCS): 2020    
-  -  IEEE International Conference on Computational Science and Engineering (CSE): 2019    
-  -  IEEE International Conference on Big Data Security on Cloud (BigDataSecurity): 2019    
-  -  IEEE International Conference on Cyber Security and Cloud Computing (CSCloud): 2019    
-  -  ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI): 2019  
+  -  AAAI Conference on Artificial Intelligence (AAAI) 2021, 2022    
+  -  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
+  -  International Workshop on Federated and Transfer Learning for Data Sparsity and  Confidentiality in Conjunction with IJCAI 2021 (FTL-IJCAI'21)
+  -  International Workshop on Mobile Ubiquitous Systems and Technologies (MUST) 2020
+
+* Journal Reviewer:  
+  * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Circuits and Systems for Video Technology
+  * ACM Transactions on Internet Technology
+  * Neural Networks
+  * EURASIP Journal on Advances in Signal Processing
+* External Reviewer:  
+  * Multimedia Tools and Applications, Special Issue on Blockchain-based Multimedia Security. JCR二区, CCF C类
+  * Signal Processing: Image Communication，Special Issue on Multimedia Big Data  Privacy and Processing Based on Compressive Sensing. JCR二区, CCF C类
+
+# Projects
+
+* Project manager
+  * [2020 - 2024] National Natural Science Foundation of China, Youth Science Foundation Project, Research on Byzantine Fault Tolerance of Decentralized Federated Learning Based on System Features, 62102052
 
