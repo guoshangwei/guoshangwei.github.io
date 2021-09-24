@@ -24,6 +24,11 @@ author_profile: true
 
   International Joint Conference on Artificial Intelligence (IJCAI),  **CCF A类**
 
+* **An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks**
+  Han Qiu, Yi Zeng, Qinkai Zheng, <u>Shangwei Guo</u>, Tianwei Zhang, Hewu Li
+  IEEE Transactions on Computers,  **CCF A类**
+
+
 * **Privacy-preserving Collaborative Learning with Automatic Transformation Search<font  color=red > (Oral)</font>**
 
   Wei Gao, <u>Shangwei Guo</u>, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
@@ -34,13 +39,13 @@ author_profile: true
 
   Han Qiu, Yi Zeng, <u>Shangwei Guo</u>, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
 
-  ACM ASIA Conference on Computer and Communications Security (AsiaCCS),  **CCF C类, Top-tier Security Conference**
+  ACM ASIA Conference on Computer and Communications Security (AsiaCCS),  **CCF C类, 安全领域顶会**
 
-* **Stealing Deep Reinforcement Learning Models for Fun and Profit, ACM ASIA  Conference on Computer and Communications Security (AsiaCCS)**
+* **Stealing Deep Reinforcement Learning Models for Fun and Profit**
 
   Kangjie Chen, <u>Shangwei Guo</u>, Tianwei Zhang, Xiaofei Xie, Yang Liu
 
-  ACM ASIA Conference on Computer and Communications Security (AsiaCCS),  **CCF C类, Top-tier Security Conference**
+  ACM ASIA Conference on Computer and Communications Security (AsiaCCS),  **CCF C类, 安全领域顶会**
 
 * **Temporal Watermarks for Deep Reinforcement Learning Models**
 
@@ -58,10 +63,10 @@ author_profile: true
 
 * **vCBIR: A Verifiable Search Engine for Content-Based Image Retrieval**
 
-  <u>Shangwei Guo</u>, Yang Ji, Ce Zhang, Cheng Xu, Jianliang Xu     
+  <u>Shangwei Guo</u>, Yang Ji, Ce Zhang, Cheng Xu, Jianliang Xu
 
-  IEEE International Conference on Data Engineering(ICDE),  **CCF A类**
-  
+  IEEE International Conference on Data Engineering (ICDE)
+
 * **SensIR: Towards Privacy-sensitive Image Retrieval in the Cloud, Signal Processing: Image Communication**
 
   Lishuang Hu, Tao Xiang, <u>Shangwei Guo</u>
@@ -72,7 +77,7 @@ author_profile: true
 
 * **ImageProof: Enabling authentication for large-scale image retrieval**
 
-  <u>Shangwei Guo</u>, Jianliang Xu, Ce Zhang, Cheng Xu, Tao Xiang      
+  <u>Shangwei Guo</u>, Jianliang Xu, Ce Zhang, Cheng Xu, Tao Xiang
 
   IEEE International Conference on Data Engineering,  **CCF A类**
 
@@ -84,7 +89,7 @@ author_profile: true
 
 * **Towards Efficient Privacy-Preserving Face Recognition in the Cloud**
 
-  <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li 
+  <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li
 
   Signal Processing,  **CCF C类**
 
@@ -96,11 +101,11 @@ author_profile: true
 
 * **Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches**
 
-  Tao Xiang, Ying Yang, <u>Shangwei Guo</u> 
+  Tao Xiang, Ying Yang, <u>Shangwei Guo</u>
 
   IEEE Transactions on Multimedia,  **CCF B类**
 
-## 2018
+## 2018 and Before
 
 * **Efficient biometric identity-based encryption**
 
@@ -108,25 +113,14 @@ author_profile: true
 
   Information Sciences,  **CCF B类**
 
-## 2017
-
-* **Image quality assessment based on multiscale fuzzy gradient similarity deviation**
-
-  <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li      
-
-  Soft Computing,  **CCF C类**
-
-
-## 2016
-
 * **Perceptual visual security index based on edge and texture similarities**
 
-  Tao Xiang, <u>Shangwei Guo</u>, Xiaoguo Li      
+  Tao Xiang, <u>Shangwei Guo</u>, Xiaoguo Li
 
   IEEE Transactions on Information Forensics and Security, **CCF A类**
 
 * **Processing secure, verifiable and efficient SQL over outsourced database**
 
-  Tao Xiang, Xiaoguo Li, Fei Chen, <u>Shangwei Guo</u>, Yuanyuan Yang      
+  Tao Xiang, Xiaoguo Li, Fei Chen, <u>Shangwei Guo</u>, Yuanyuan Yang
 
   Information Sciences,  **CCF B类**

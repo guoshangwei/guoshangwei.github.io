@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shangwei Guo"
   avatar           : "Guo.png"
-  bio              : "Graduate tutor of Chongqing University"
+  bio              : "Associate Professor, Chongqing University"
   location         : "CQU,CHONQING"
   employer         : #"Guoshang wei"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=wQrVkBYAAAAJ&hl=zh-CN"
-  email            : "shangwei.guo@ntu.edu.sg"
+  email            : "swguo@cqu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : #"balabala"
   foursquare       :
-  github           : "gswei5555"
+  github           : "guoshangwei"
   google_plus      :
   keybase          :
   instagram        :
