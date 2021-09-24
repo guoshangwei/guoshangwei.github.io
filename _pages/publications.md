@@ -25,7 +25,9 @@ author_profile: true
   International Joint Conference on Artificial Intelligence (IJCAI),  **CCF A类**
 
 * **An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks**
+
   Han Qiu, Yi Zeng, Qinkai Zheng, <u>Shangwei Guo</u>, Tianwei Zhang, Hewu Li
+
   IEEE Transactions on Computers,  **CCF A类**
 
 
