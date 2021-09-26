@@ -7,7 +7,7 @@ permalink: /
 
 # **Biography**
 
-Shangwei is an associate professor in the College of Computer Science, Chongqing University. He worked as a postdoctoral research fellow at the Database Lab, Hong Kong Baptist University from 2018 to 2019 (supervised by [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/)). Before joining CQU, he worked as a research fellow at the Cyber Security  Lab, School of Computer Science and Engineering, Nanyang Technological  University from 2019 to 2020 (supervised by [Prof. Yang LIU](http://www.ntu.edu.sg/home/yangliu/) and [Prof. Tianwei ZHANG](https://personal.ntu.edu.sg/tianwei.zhang/)). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1140/1746.htm)).
+Shangwei is an associate professor in the College of Computer Science, Chongqing University. He worked as a postdoctoral research fellow at the Database Lab, Hong Kong Baptist University from 2018 to 2019 (supervised by [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/)). Before joining CQU, he worked as a research fellow at the Cyber Security  Lab, School of Computer Science and Engineering, Nanyang Technological  University from 2019 to 2020 (supervised by [Prof. Yang LIU](https://personal.ntu.edu.sg/yangliu/) and [Prof. Tianwei ZHANG](https://personal.ntu.edu.sg/tianwei.zhang/)). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1331/4246.htm)).
 
 ### Interests
 
@@ -26,8 +26,6 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 ![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (CCF-A)!
 
 ![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (CCF-A)!
-
-![](../images/new.gif) Apr. 2021: one paper accepted by TC (CCF-A)!
 
 ![](../images/new.gif) Apr. 2021: one paper accepted by TC (CCF-A)!
 

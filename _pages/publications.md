@@ -41,13 +41,13 @@ author_profile: true
 
   Han Qiu, Yi Zeng, <u>Shangwei Guo</u>, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
 
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*,  **CCF C类, 安全领域顶会**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*,  **CCF C类, 安全领域高水平会议**
 
 * **Stealing Deep Reinforcement Learning Models for Fun and Profit**
 
   Kangjie Chen, <u>Shangwei Guo</u>, Tianwei Zhang, Xiaofei Xie, Yang Liu
 
-  ACM ASIA Conference on Computer and Communications Security (AsiaCCS),  **CCF C类, 安全领域顶会**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*,  **CCF C类, 安全领域高水平会议**
 
 * **Temporal Watermarks for Deep Reinforcement Learning Models**
 
