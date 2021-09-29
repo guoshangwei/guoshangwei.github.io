@@ -21,6 +21,8 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
+![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (CCF-B)！
+
 ![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (CCF-B)！
 
 ![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (CCF-A)!

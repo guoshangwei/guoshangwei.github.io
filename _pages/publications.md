@@ -6,6 +6,12 @@ author_profile: true
 
 ## 2021
 
+* **Byzantine-resilient Decentralized Stochastic Gradient Descent**
+
+  <u>Shangwei Guo</u>, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF B类**
+
 * **Topology-aware Differential Privacy for Decentralized Image Classification**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
