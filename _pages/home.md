@@ -21,7 +21,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
-![](../images/new.gif) Sep. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF-A**). Congrats to Yafei!
+![](../images/new.gif) Nov. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF-A**). Congrats to Yafei!
 
 ![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (**CCF-B**)！
 
