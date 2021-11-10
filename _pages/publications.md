@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2021
 
-* **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](doi.org/10.1109/TKDE.2021.3124232)**
+* **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](https://doi.org/10.1109/TKDE.2021.3124232)**
 
   Yafei Li, Hongyan Gu, Rui Chen, Jianliang Xu, <u>Shangwei Guo</u>, Junxiao Xue, Mingliang Xu
 
@@ -36,7 +36,7 @@ author_profile: true
 
   *International Joint Conference on Artificial Intelligence (IJCAI)*,  **CCF Rank A**
 
-* **[An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks](doi.org/10.1109/TC.2021.3076826)**
+* **[An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks](https://doi.org/10.1109/TC.2021.3076826)**
 
   Han Qiu, Yi Zeng, Qinkai Zheng, <u>Shangwei Guo</u>, Tianwei Zhang, Hewu Li
 
@@ -66,7 +66,7 @@ author_profile: true
 
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*,  **CCF Rank B**
 
-* **[Privacy-Preserving Reverse Nearest Neighbor Query over Encrypted Spatial Data](doi.org/10.1109/TSC.2021.3065356)**
+* **[Privacy-Preserving Reverse Nearest Neighbor Query over Encrypted Spatial Data](https://doi.org/10.1109/TSC.2021.3065356)**
 
   Xiaoguo Li, Tao Xiang,  <u>Shangwei Guo</u>, Hongwei Li, Yi Mu
 
