@@ -6,66 +6,71 @@ author_profile: true
 
 ## 2021
 
-* **Byzantine-resilient Decentralized Stochastic Gradient Descent**
+* **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](10.1109/TKDE.2021.3124232)**
+
+  Yafei Li, Hongyan Gu, Rui Chen, Jianliang Xu, <u>Shangwei Guo</u>, Junxiao Xue, Mingliang Xu
+
+  *IEEE Transactions on Knowledge and Data Engineering*,  **CCF Rank A**
+
+* **[Byzantine-resilient Decentralized Stochastic Gradient Descent](https://arxiv.org/abs/2002.08569)**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF B类**
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
 
-* **Topology-aware Differential Privacy for Decentralized Image Classification**
+* **[Topology-aware Differential Privacy for Decentralized Image Classification](https://arxiv.org/abs/2006.07817)**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF B类**
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
 
-* **PRNet: A Progressive Recovery Network for Revealing Perceptually Encrypted Images**
+* **[PRNet: A Progressive Recovery Network for Revealing Perceptually Encrypted Images](https://doi.org/10.1145/3474085.3475517)**
 
   Tao Xiang, Ying Yang, <u>Shangwei Guo</u>, Hangcheng Liu, Hantao Liu
 
-  *ACM International Conference on Multimedia (ACM MM)*,  **CCF A类**
+  *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
 
-* **Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models**
+* **[Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models](https://arxiv.org/abs/2009.08697)**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu
 
-  *International Joint Conference on Artificial Intelligence (IJCAI)*,  **CCF A类**
+  *International Joint Conference on Artificial Intelligence (IJCAI)*,  **CCF Rank A**
 
-* **An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks**
+* **[An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks](10.1109/TC.2021.3076826)**
 
   Han Qiu, Yi Zeng, Qinkai Zheng, <u>Shangwei Guo</u>, Tianwei Zhang, Hewu Li
 
-  *IEEE Transactions on Computers*,  **CCF A类**
+  *IEEE Transactions on Computers*,  **CCF Rank A**
 
-
-* **Privacy-preserving Collaborative Learning with Automatic Transformation Search<font  color=red > (Oral)</font>**
+* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505)<font  color=red > (Oral)</font>** <font size=2>[[code](https://github.com/gaow0007/ATSPrivacy)]</font>
 
   Wei Gao, <u>Shangwei Guo</u>, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
 
-  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*,  **CCF A类**
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*,  **CCF Rank A**
 
-* **DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation**
+* **[DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)**
 
   Han Qiu, Yi Zeng, <u>Shangwei Guo</u>, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
 
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*,  **CCF C类, 安全领域高水平会议**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CQU-CSL Rank A**
 
-* **Stealing Deep Reinforcement Learning Models for Fun and Profit**
+* **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://arxiv.org/abs/2006.05032)**
 
   Kangjie Chen, <u>Shangwei Guo</u>, Tianwei Zhang, Xiaofei Xie, Yang Liu
 
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*,  **CCF C类, 安全领域高水平会议**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CQU-CSL Rank A**
 
-* **Temporal Watermarks for Deep Reinforcement Learning Models**
+* **[Temporal Watermarks for Deep Reinforcement Learning Models](https://personal.ntu.edu.sg/tianwei.zhang/paper/aamas2021.pdf)**
 
   Kangjie Chen, <u>Shangwei Guo</u>, Tianwei Zhang, Shuxin Li, Yang Liu
 
-  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*,  **CCF B类**
+  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*,  **CCF Rank B**
 
-* **Privacy-Preserving Reverse Nearest Neighbor Query over Encrypted Spatial Data**
+* **[Privacy-Preserving Reverse Nearest Neighbor Query over Encrypted Spatial Data](10.1109/TSC.2021.3065356)**
 
   Xiaoguo Li, Tao Xiang,  <u>Shangwei Guo</u>, Hongwei Li, Yi Mu
 
-  *IEEE Transactions on Services Computing*,  **CCF B类**
+  *IEEE Transactions on Services Computing*,  **CCF Rank B**
 
 ## 2020
 
@@ -79,7 +84,7 @@ author_profile: true
 
   Lishuang Hu, Tao Xiang, <u>Shangwei Guo</u>
 
-  *Signal Processing: Image Communication*,  **CCF C类**
+  *Signal Processing: Image Communication*,  **CCF Rank C**
 
 ## 2019
 
@@ -87,31 +92,31 @@ author_profile: true
 
   <u>Shangwei Guo</u>, Jianliang Xu, Ce Zhang, Cheng Xu, Tao Xiang
 
-  *IEEE International Conference on Data Engineering*,  **CCF A类**
+  *IEEE International Conference on Data Engineering*,  **CCF Rank A**
 
 * **PEID: A Perceptually Encrypted Image Database for Visual Security Evaluation**
 
   <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li, Ying Yang
 
-  *IEEE Transactions on Information Forensics and Security*,   **CCF A类**
+  *IEEE Transactions on Information Forensics and Security*,   **CCF Rank A**
 
 * **Towards Efficient Privacy-Preserving Face Recognition in the Cloud**
 
   <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li
 
-  *Signal Processing*,  **CCF C类**
+  *Signal Processing*,  **CCF Rank C**
 
 * **Visual Security Evaluation of Perceptually Encrypted Images Based on Image Importance**
 
   Tao Xiang, Ying Yang, Hangcheng Liu, <u>Shangwei Guo</u>
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF B类**
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
 
 * **Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches**
 
   Tao Xiang, Ying Yang, <u>Shangwei Guo</u>
 
-  *IEEE Transactions on Multimedia*,  **CCF B类**
+  *IEEE Transactions on Multimedia*,  **CCF Rank B**
 
 ## 2018 and Before
 
@@ -119,16 +124,16 @@ author_profile: true
 
   Xiaoguo Li, Tao Xiang, Fei Chen, <u>Shangwei Guo</u>
 
-  *Information Sciences*,  **CCF B类**
+  *Information Sciences*,  **CCF Rank B**
 
 * **Perceptual visual security index based on edge and texture similarities**
 
   Tao Xiang, <u>Shangwei Guo</u>, Xiaoguo Li
 
-  *IEEE Transactions on Information Forensics and Security*, **CCF A类**
+  *IEEE Transactions on Information Forensics and Security*, **CCF Rank A**
 
 * **Processing secure, verifiable and efficient SQL over outsourced database**
 
   Tao Xiang, Xiaoguo Li, Fei Chen, <u>Shangwei Guo</u>, Yuanyuan Yang
 
-  *Information Sciences*,  **CCF B类**
+  *Information Sciences*,  **CCF Rank B**

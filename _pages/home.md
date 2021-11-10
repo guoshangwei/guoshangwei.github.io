@@ -21,17 +21,19 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
-![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (CCF-B)！
+![](../images/new.gif) Sep. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF-A**). Congrats to Yafei!
 
-![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (CCF-B)！
+![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (**CCF-B**)！
 
-![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (CCF-A)!
+![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (**CCF-B**)！
 
-![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (CCF-A)!
+![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (**CCF-A**)!
 
-![](../images/new.gif) Apr. 2021: one paper accepted by TC (CCF-A)!
+![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (**CCF-A**)!
 
-![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (CCF-A)!
+![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF-A**)!
+
+![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (**CCF-A**)!
 
 ![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS!
 
