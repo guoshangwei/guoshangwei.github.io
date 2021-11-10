@@ -42,7 +42,7 @@ author_profile: true
 
   *IEEE Transactions on Computers*,  **CCF Rank A**
 
-* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505)<font  color=red > (Oral)</font>** [<font size=2>[code](https://github.com/gaow0007/ATSPrivacy)</font>]
+* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505)<font  color=red > (Oral)</font>** [[code](https://github.com/gaow0007/ATSPrivacy)]
 
   Wei Gao, <u>Shangwei Guo</u>, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
 
