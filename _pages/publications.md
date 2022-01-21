@@ -4,9 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Survey
+## Pre-print
 
+* **[Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey](https://arxiv.org/abs/2112.10183)** [[Paper List](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
 
+  <u>Shangwei Guo</u>, Xu Zhang, Fei Yang, Tianwei Zhang, Yan Gan, Tao Xiang, Yang Liu
+
+  arXiv
 ## 2022
 
 * **NASPY: Automated Extraction of Automated Machine Learning Models**

@@ -43,4 +43,4 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ### Quick Links
 
-[Cybersecurity Lab@CQU](https://github.com/csl-cqu) &ensp;&ensp; [CSL@CQU推荐会议期刊目录](https://github.com/csl-cqu/Conference-Journal-Ranks) &ensp;&ensp; [Best Paper Lists](https://jeffhuang.com/best_paper_awards/) &ensp;&ensp; [AI Conference Deadlines](https://aideadlin.es/?sub=ML)
+[Cybersecurity Lab@CQU](https://github.com/csl-cqu) &ensp;&ensp; [CSL@CQU推荐会议期刊目录](https://github.com/csl-cqu/Conference-Journal-Ranks) &ensp;&ensp; [Best Paper Lists](https://jeffhuang.com/best_paper_awards/) &ensp;&ensp; [AI Conference Deadlines](https://aideadlin.es/?sub=ML) [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
