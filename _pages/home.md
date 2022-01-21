@@ -20,24 +20,27 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
+![](../images/new.gif) Jan. 2022: two papers accepted by ICLR (**CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
 
-![](../images/new.gif) Nov. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF-A**). Congrats to Yafei!
+![](../images/new.gif) Jan. 2022: our paper "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples" accepted by TOSN (**CCF B**). Congrats to Hangcheng!
 
-![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (**CCF-B**)！
+![](../images/new.gif) Nov. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF A**). Congrats to Yafei!
 
-![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (**CCF-B**)！
+![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (**CCF B**)！
 
-![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (**CCF-A**)!
+![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (**CCF B**)！
 
-![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (**CCF-A**)!
+![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (**CCF A**)!
 
-![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF-A**)!
+![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (**CCF A**)!
 
-![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (**CCF-A**)!
+![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF A**)!
 
-![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS!
+![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (**CCF A**)!
+
+![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS (**CSL@CQU A**)!
 
 
 ### Quick Links
 
-[Cybersecurity Lab, CQU](https://github.com/csl-cqu) &ensp;&ensp; [CSL-CQU推荐会议期刊目录](https://github.com/csl-cqu/Conference-Journal-Ranks) &ensp;&ensp; [Best Paper Lists](https://jeffhuang.com/best_paper_awards/) &ensp;&ensp; [AI Conference Deadlines](https://aideadlin.es/?sub=ML)
+[Cybersecurity Lab@CQU](https://github.com/csl-cqu) &ensp;&ensp; [CSL@CQU推荐会议期刊目录](https://github.com/csl-cqu/Conference-Journal-Ranks) &ensp;&ensp; [Best Paper Lists](https://jeffhuang.com/best_paper_awards/) &ensp;&ensp; [AI Conference Deadlines](https://aideadlin.es/?sub=ML)

@@ -4,6 +4,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Survey
+
+
+## 2022
+
+* **NASPY: Automated Extraction of Automated Machine Learning Models**
+
+  Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
+
+  *International Conference on Learning Representations* **CSL@CQU Rank A**
+
+* **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://arxiv.org/abs/2110.02467)**
+
+  Kangjie Chen, Yuxian Meng, Xiaofei Sun, <u>Shangwei Guo</u>, Tianwei Zhang, Jiwei Li, Chun Fan
+
+  *International Conference on Learning Representations* **CSL@CQU Rank A**
+
+* **EGM: An Efficient Generative Model for Unrestricted Adversarial Examples**
+
+  Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Xiaofeng Liao
+
+  *ACM Transactions on Sensor Networks* **CCF Rank B**
 ## 2021
 
 * **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](https://doi.org/10.1109/TKDE.2021.3124232)**
@@ -48,17 +70,17 @@ author_profile: true
 
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*,  **CCF Rank A**
 
-* **[DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)**
+* **[DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)** [[code](https://github.com/YiZeng623/DeepSweep)]
 
   Han Qiu, Yi Zeng, <u>Shangwei Guo</u>, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
 
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CQU-CSL Rank A**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CSL@CQU Rank A**
 
 * **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://arxiv.org/abs/2006.05032)**
 
   Kangjie Chen, <u>Shangwei Guo</u>, Tianwei Zhang, Xiaofei Xie, Yang Liu
 
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CQU-CSL Rank A**
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CSL@CQU Rank A**
 
 * **[Temporal Watermarks for Deep Reinforcement Learning Models](https://personal.ntu.edu.sg/tianwei.zhang/paper/aamas2021.pdf)**
 
