@@ -17,13 +17,13 @@ author_profile: true
 
   Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
 
-  *International Conference on Learning Representations* **CSL@CQU Rank A**
+  *International Conference on Learning Representations (ICLR)* **CSL@CQU Rank A**
 
 * **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://arxiv.org/abs/2110.02467)**
 
   Kangjie Chen, Yuxian Meng, Xiaofei Sun, <u>Shangwei Guo</u>, Tianwei Zhang, Jiwei Li, Chun Fan
 
-  *International Conference on Learning Representations* **CSL@CQU Rank A**
+  *International Conference on Learning Representations (ICLR)* **CSL@CQU Rank A**
 
 * **EGM: An Efficient Generative Model for Unrestricted Adversarial Examples**
 
