@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-##
+A complete list can be found in [Google Scholar](https://scholar.google.com/citations?user=wQrVkBYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/176/6479.html)
+
 
 ## Pre-print
 
