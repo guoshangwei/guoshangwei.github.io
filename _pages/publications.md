@@ -3,33 +3,32 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+##
 ## Pre-print
 
-* **[Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey](https://arxiv.org/abs/2112.10183)** [[Paper List](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
+* **[Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey](https://arxiv.org/abs/2112.10183)** [[paper list](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
 
   <u>Shangwei Guo</u>, Xu Zhang, Fei Yang, Tianwei Zhang, Yan Gan, Tao Xiang, Yang Liu
 
-  arXiv
 ## 2022
 
-* **NASPY: Automated Extraction of Automated Machine Learning Models**
+* **NASPY: Automated Extraction of Automated Machine Learning Models<font  color=red > (Spotlight)</font>**
 
-  Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
+  Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Yaoxin Wu, Tianwei Zhang
 
-  *International Conference on Learning Representations (ICLR)* **CSL@CQU Rank A**
+  *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A+**
 
 * **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://arxiv.org/abs/2110.02467)**
 
   Kangjie Chen, Yuxian Meng, Xiaofei Sun, <u>Shangwei Guo</u>, Tianwei Zhang, Jiwei Li, Chun Fan
 
-  *International Conference on Learning Representations (ICLR)* **CSL@CQU Rank A**
+  *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A**
 
 * **EGM: An Efficient Generative Model for Unrestricted Adversarial Examples**
 
   Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Xiaofeng Liao
 
-  *ACM Transactions on Sensor Networks* **CCF Rank B**
+  *ACM Transactions on Sensor Networks*, **CCF Rank B**
 ## 2021
 
 * **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](https://doi.org/10.1109/TKDE.2021.3124232)**
