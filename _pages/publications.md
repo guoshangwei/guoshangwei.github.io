@@ -20,6 +20,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
   <u>Shangwei Guo</u>, Chunlong Xie, Tao Xiang, Jiwei Li, Lingjuan Lyu, Tianwei Zhang
 
   *Pre-print*
+
 ## 2022
 
 * **BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion**
@@ -32,7 +33,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, <u>Shangwei Guo</u>, Chun Fan
 
-  *North American Chapter of the Association for Computational Linguistics (NAACL)*, **CSL@CQU Rank A+**
+  *North American Chapter of the Association for Computational Linguistics (NAACL)*, **CSL@CQU Rank A**
 
 * **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)<font  color=red > (Spotlight)</font>**
 
