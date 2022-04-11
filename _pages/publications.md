@@ -7,15 +7,34 @@ author_profile: true
 A complete list can be found in [Google Scholar](https://scholar.google.com/citations?user=wQrVkBYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/176/6479.html)
 
 
-## Pre-print
+## Survey
 
 * **[Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey](https://arxiv.org/abs/2112.10183)** [[paper list](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
 
   <u>Shangwei Guo</u>, Xu Zhang, Fei Yang, Tianwei Zhang, Yan Gan, Tao Xiang, Yang Liu
 
+  *Pre-print*
+
+* **[Threats to Pre-trained Language Models: Survey and Taxonomy](https://arxiv.org/abs/2202.06862)**
+
+  <u>Shangwei Guo</u>, Chunlong Xie, Tao Xiang, Jiwei Li, Lingjuan Lyu, Tianwei Zhang
+
+  *Pre-print*
 ## 2022
 
-* **NASPY: Automated Extraction of Automated Machine Learning Models<font  color=red > (Spotlight)</font>**
+* **BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion**
+
+  Tao Xiang, Honghong Zeng, Biwen Chen, <u>Shangwei Guo</u>
+
+  ACM Transactions on Multimedia Computing Communications and Applications **CCF Rank B**
+
+* **[Triggerless Backdoor Attack for NLP Tasks with Clean Labels](https://arxiv.org/abs/2112.10183)**
+
+  Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, <u>Shangwei Guo</u>, Chun Fan
+
+  *North American Chapter of the Association for Computational Linguistics (NAACL)*, **CSL@CQU Rank A+**
+
+* **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)<font  color=red > (Spotlight)</font>**
 
   Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Yaoxin Wu, Tianwei Zhang
 
@@ -27,11 +46,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A**
 
-* **EGM: An Efficient Generative Model for Unrestricted Adversarial Examples**
+* **[EGM: An Efficient Generative Model for Unrestricted Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3511893)**
 
   Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Xiaofeng Liao
 
   *ACM Transactions on Sensor Networks*, **CCF Rank B**
+
 ## 2021
 
 * **[Efficient Top-k Matching for Publish/Subscribe Ride Hitching](https://doi.org/10.1109/TKDE.2021.3124232)**

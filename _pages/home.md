@@ -20,6 +20,10 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
+![](../images/new.gif) Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
+
+![](../images/new.gif) Apr. 2022: One paper accepted by NAACL (**CSL@CQU A**)! Congrats to Leilei!
+
 ![](../images/new.gif) Jan. 2022: two papers accepted by ICLR (one <font  color=red >spotlight</font> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
 
 ![](../images/new.gif) Jan. 2022: our paper "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples" accepted by TOSN (**CCF B**). Congrats to Hangcheng!
