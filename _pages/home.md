@@ -20,7 +20,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
-![](../images/new.gif) May. 2022: One paper accepted by TBD (**CCF B**)! Congrats to Biwen and Honghong!
+![](../images/new.gif) May. 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
 
 ![](../images/new.gif) Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
 
@@ -40,11 +40,11 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (**CCF A**)!
 
-![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF A**)!
+<!-- ![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF A**)!
 
 ![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (**CCF A**)!
 
-![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS (**CSL@CQU A**)!
+![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS (**CSL@CQU A**)! -->
 
 
 ### Quick Links
