@@ -27,13 +27,13 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Biwen Chen, Honghong Zeng, Tao Xiang, <u>Shangwei Guo</u>, Tianwei Zhang, Yang Liu
 
-  IEEE Transactions on Big Data
+  *IEEE Transactions on Big Data*
 
 * **BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion**
 
   Tao Xiang, Honghong Zeng, Biwen Chen, <u>Shangwei Guo</u>
 
-  ACM Transactions on Multimedia Computing Communications and Applications **CCF Rank B**
+  *ACM Transactions on Multimedia Computing Communications and Applications* **CCF Rank B**
 
 * **[Triggerless Backdoor Attack for NLP Tasks with Clean Labels](https://arxiv.org/abs/2112.10183)**
 
