@@ -23,6 +23,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2022
 
+* **Ownership Verification of DNN Architectures via Hardware Cache Side Channels**
+
+  Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
 * **ESB-FL: Efficient and Secure Blockchain-Based Federated Learning with Fair Payment**
 
   Biwen Chen, Honghong Zeng, Tao Xiang, <u>Shangwei Guo</u>, Tianwei Zhang, Yang Liu
