@@ -20,7 +20,9 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
-![](../images/new.gif) Jun. 2022: One paper accepted by TCSVT! Congrats to Xiaoxuan!
+![](../images/new.gif) Jun. 2021: Two paper accepted by ACM MM (**CCF A**)!
+
+![](../images/new.gif) Jun. 2022: One paper accepted by TCSVT (**CCF B**)! Congrats to Xiaoxuan!
 
 ![](../images/new.gif) May 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
 
@@ -28,25 +30,25 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Apr. 2022: One paper accepted by NAACL (**CSL@CQU A**)! Congrats to Leilei!
 
-![](../images/new.gif) Jan. 2022: two papers accepted by ICLR (one <font  color=red >spotlight</font> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
+![](../images/new.gif) Jan. 2022: Two papers accepted by ICLR (one <font  color=red >spotlight</font> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
 
-![](../images/new.gif) Jan. 2022: our paper "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples" accepted by TOSN (**CCF B**). Congrats to Hangcheng!
+![](../images/new.gif) Jan. 2022: Our paper "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples" accepted by TOSN (**CCF B**). Congrats to Hangcheng!
 
-![](../images/new.gif) Nov. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF A**). Congrats to Yafei!
+![](../images/new.gif) Nov. 2021: Our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF A**). Congrats to Yafei!
 
-![](../images/new.gif) Sep. 2021: one paper accepted by TCSVT (**CCF B**)！
+![](../images/new.gif) Sep. 2021: One paper accepted by TCSVT (**CCF B**)！
 
-![](../images/new.gif) Aug. 2021: one paper accepted by TCSVT (**CCF B**)！
+![](../images/new.gif) Aug. 2021: One paper accepted by TCSVT (**CCF B**)！
 
-![](../images/new.gif) Jul. 2021: one paper accepted by ACM MM (**CCF A**)!
+![](../images/new.gif) Jul. 2021: One paper accepted by ACM MM (**CCF A**)!
 
-![](../images/new.gif) Apr. 2021: one paper accepted by IJCAI (**CCF A**)!
+![](../images/new.gif) Apr. 2021: One paper accepted by IJCAI (**CCF A**)!
 
-![](../images/new.gif) Apr. 2021: one paper accepted by TC (**CCF A**)!
+![](../images/new.gif) Apr. 2021: One paper accepted by TC (**CCF A**)!
 
-![](../images/new.gif) Mar. 2021: one paper accepted by CVPR <font  color=red >Oral</font> (**CCF A**)!
+![](../images/new.gif) Mar. 2021: One paper accepted by CVPR <font  color=red >Oral</font> (**CCF A**)!
 
-![](../images/new.gif) Feb. 2021: two papers accepted by AsiaCCS (**CSL@CQU A**)!
+![](../images/new.gif) Feb. 2021: Two papers accepted by AsiaCCS (**CSL@CQU A**)!
 
 
 ### Quick Links

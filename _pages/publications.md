@@ -23,6 +23,18 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2022
 
+* **Text's Armor: Optimized Local Adversarial Perturbation Against Scene Text Editing Attacks**
+
+  Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Hantao Liu, Tianwei Zhang
+
+  *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
+
+* **Rethinking the Vulnerability of DNN Watermarking: Are Watermarks Robust against Naturalness-aware Perturbations?**
+
+  Run Wang, Haoxuan Li, Lingzhou Mu, Jixing Ren, <u>Shangwei Guo</u>, Li Liu, Liming Fang, Jing Chen, Lina Wang
+
+  *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
+
 * **Ownership Verification of DNN Architectures via Hardware Cache Side Channels**
 
   Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
