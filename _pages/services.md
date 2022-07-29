@@ -40,6 +40,7 @@ redirect_from:
 
 * Principal Investigator
   * [2022 - 2024] National Natural Science Foundation of China, Youth Science Foundation Project, Research on Byzantine Fault Tolerance of Decentralized Federated Learning Based on System Features, 62102052
+  * [2022 - 2024] Natural Science Foundation of Chongqing, Research on Byzantine Attacks and Defenses for Decentralized Federated Learning
 
 * Co-Principal Investigator
   * [2022 - 2025] Joint Funds of National Natural Science Foundation of China, Research on Security, Controllability and Attack Detection Theories and Methods of Blockchain, U21A20463
