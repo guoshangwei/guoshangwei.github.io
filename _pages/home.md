@@ -20,23 +20,23 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
-![](../images/new.gif) Jul. 2021: We are funded by **CCF-Tencent Open Fund** (CCF-腾讯犀牛基金)！
+![](../images/new.gif) Jul. 2022: We are funded by **CCF-Tencent Open Fund** (CCF-腾讯犀牛基金)！
 
-![](../images/new.gif) Jun. 2021: Our team won the **First Prize of Chongqing Science and Technology Progress Award** (重庆市科技进步一等奖）!
+![](../images/new.gif) Jun. 2022: Our team won the **First Prize of Chongqing Science and Technology Progress Award** (重庆市科技进步一等奖）!
 
-![](../images/new.gif) Jun. 2021: Prof. Yafei Li ([李亚飞](https://zzudb.github.io/yfli/)), Zhengzhou University, gave an online talk.
+![](../images/new.gif) Jun. 2022: Prof. Yafei Li ([李亚飞](https://zzudb.github.io/yfli/)), Zhengzhou University, gave an online talk.
 
-![](../images/new.gif) Jun. 2021: Prof. Sen Chen ([陈森](https://sen-chen.github.io/)), Tianjin University, gave an online talk.
+![](../images/new.gif) Jun. 2022: Prof. Sen Chen ([陈森](https://sen-chen.github.io/)), Tianjin University, gave an online talk.
 
-![](../images/new.gif) Jun. 2021: Two paper accepted by ACM MM (**CCF A**)!
+![](../images/new.gif) Jun. 2022: Two paper accepted by ACM MM (**CCF A**)!
 
-![](../images/new.gif) Jun. 2021: Two paper accepted by ACM MM (**CCF A**)!
+![](../images/new.gif) Jun. 2022: Two paper accepted by ACM MM (**CCF A**)!
 
 ![](../images/new.gif) Jun. 2022: One paper accepted by TCSVT (**CCF B**)! Congrats to Xiaoxuan!
 
 ![](../images/new.gif) May 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
 
-![](../images/new.gif) Jun. 2021: Prof. Fei Yang (杨非), Zhejiang Lab, gave an online talk.
+![](../images/new.gif) May. 2022: Prof. Fei Yang (杨非), Zhejiang Lab, gave an online talk.
 
 ![](../images/new.gif) Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
 
@@ -46,13 +46,13 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Jan. 2022: Our paper accepted by TOSN (**CCF B**). Congrats to Hangcheng!
 
-![](../images/new.gif) Jul. 2021: We are funded by **National Natural Science Foundation of China**（区域创新发展联合基金重点项目）！
+![](../images/new.gif) Dec. 2021: We are funded by **National Natural Science Foundation of China**（区域创新发展联合基金重点项目）！
 
 ![](../images/new.gif) Nov. 2021: Our paper accepted by TKDE (**CCF A**). Congrats to Yafei!
 
-![](../images/new.gif) Jul. 2021: We are funded by **Natural Science Foundation of Chongqing**（面上项目）！
+![](../images/new.gif) Oct. 2021: We are funded by **Natural Science Foundation of Chongqing**（面上项目）！
 
-![](../images/new.gif) Jul. 2021: We are funded by **National Natural Science Foundation of China**（青年基金项目）！
+![](../images/new.gif) Oct. 2021: We are funded by **National Natural Science Foundation of China**（青年基金项目）！
 
 ![](../images/new.gif) Sep. 2021: One paper accepted by TCSVT (**CCF B**)！
 
