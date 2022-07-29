@@ -30,8 +30,6 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Jun. 2022: Two paper accepted by ACM MM (**CCF A**)!
 
-![](../images/new.gif) Jun. 2022: Two paper accepted by ACM MM (**CCF A**)!
-
 ![](../images/new.gif) Jun. 2022: One paper accepted by TCSVT (**CCF B**)! Congrats to Xiaoxuan!
 
 ![](../images/new.gif) May 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
