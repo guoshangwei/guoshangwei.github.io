@@ -23,6 +23,9 @@ redirect_from:
 
 ## Journal Services
 
+* Editorial Board:
+  * Review Editor, Frontiers in Big Data
+
 * Guest Editor:
   * Multimedia Tools and Applications, Special Issue on Blockchain-based Multimedia Security. JCR二区, CCF C类
   * Signal Processing: Image Communication，Special Issue on Multimedia Big Data  Privacy and Processing Based on Compressive Sensing. JCR二区, CCF C类

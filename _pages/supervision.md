@@ -6,8 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* Ph.D. Students:
+  * Hangcheng Liu - Aug 2018 (Co-advised with Prof. Tao Xiang)
 
 * Graduate Students:
+  * Zhichao Zhao - Aug 2022
+  * Xiangyi Fang - Aug 2022
+  * Hao Wang - Aug 2022  (Co-advised with Prof. Tao Xiang)
+  * Xu Zhang - Aug 2021  (Co-advised with Prof. Tao Xiang)
+  * Chunlong Xie - Aug 2021  (Co-advised with Prof. Tao Xiang)
   * Han Li - Aug 2021
   * Zhen Qin - Aug 2021
   * Zhirui Zeng - Aug 2021
