@@ -15,7 +15,7 @@ redirect_from:
   - Submission Chair, The 23th International Conference on Information and Communications Security (ICICS 2021)
 
 * Technical Program Committee:
-  -  AAAI Conference on Artificial Intelligence (AAAI) 2021
+  -  AAAI Conference on Artificial Intelligence (AAAI) 2021, 2023
   -  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021, 2022
   - International Workshop on Trustable, Verifiable and Auditable Federated Learning (FL-AAAI) 2022
   -  International Workshop on Federated and Transfer Learning for Data Sparsity and  Confidentiality in Conjunction with IJCAI 2021 (FTL-IJCAI'21)
@@ -30,13 +30,13 @@ redirect_from:
   * Multimedia Tools and Applications, Special Issue on Blockchain-based Multimedia Security. JCR二区, CCF C类
   * Signal Processing: Image Communication，Special Issue on Multimedia Big Data  Privacy and Processing Based on Compressive Sensing. JCR二区, CCF C类
 
-* Journal Reviewer:
+* Journal Reviewer (selected):
   * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Information Forensics and Security
+  * IEEE Transactions on Signal Processing
+  * IEEE Transactions on Dependable and Secure Computing
   * IEEE Transactions on Circuits and Systems for Video Technology
-  * ACM Transactions on Internet Technology
-  * Neural Networks
-  * Information Sciences
-  * EURASIP Journal on Advances in Signal Processing
+
 
 
 ## Projects

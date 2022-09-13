@@ -20,7 +20,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
-![](../images/new.gif) Jun. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi‘an Jiaotong University, gave an online talk.
+![](../images/new.gif) Aug. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi‘an Jiaotong University, gave an online talk.
 
 ![](../images/new.gif) Jul. 2022: We are funded by **CCF-Tencent Open Fund** (CCF-腾讯犀牛基金)！
 
