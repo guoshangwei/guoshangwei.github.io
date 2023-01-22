@@ -21,6 +21,20 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *Pre-print*
 
+## 2023
+
+* **[Extracting Robust Models with Uncertain Examples](https://openreview.net/forum?id=cMAjKYftNwx)**
+
+  Guanlin Li, Guowen Xu, <u>Shangwei Guo</u>, Han Qiu, Jiwei Li, Tianwei Zhang
+
+  *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A**
+
+* **[Secure Decentralized Image Classification with Multiparty Homomorphic Encryption](https://ieeexplore.ieee.org/abstract/document/10006830/)**
+
+  Guowen Xu, Guanlin Li, <u>Shangwei Guo</u>, Tianwei Zhang, Hongwei Li
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
 ## 2022
 
 * **Text's Armor: Optimized Local Adversarial Perturbation Against Scene Text Editing Attacks**
