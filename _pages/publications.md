@@ -23,6 +23,31 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2023
 
+* **Automatic Transformation Search Against Deep Leakage from Gradients**
+
+  Wei Gao, Xu Zhang, <u>Shangwei Guo</u>, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu
+
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence*,  **CCF Rank A**
+
+* **Contrastive Fusion Representation: Mitigating Adversarial Attacks on VQA Models**
+
+  Jialing He, Zhen Qin, Hangcheng Liu, <u>Shangwei Guo</u>, Biwen Chen, Ning Wang, Tao Xiang
+
+  *IEEE International Conference on Multimedia and Expo (ICME)*,  **CCF Rank B**
+
+* **[EHNQ: Subjective and Objective Quality Evaluation of Enhanced Night-Time Images](https://ieeexplore.ieee.org/abstract/document/10045730)**
+
+  Ying Yang, Tao Xiang, <u>Shangwei Guo</u>, Xiao Lv, Hantao Liu, Xiaofeng Liao
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
+* **Towards Query Efficient Black-Box Attacks: A Universal Dual Transferability-Based Framework**
+
+  Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Wenjian He, Xiaofeng Liao
+
+  *ACM Transactions on Intelligent Systems and Technology*
+
+
 * **[Extracting Robust Models with Uncertain Examples](https://openreview.net/forum?id=cMAjKYftNwx)**
 
   Guanlin Li, Guowen Xu, <u>Shangwei Guo</u>, Han Qiu, Jiwei Li, Tianwei Zhang
