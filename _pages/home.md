@@ -24,7 +24,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Mar. 2023: One paper accepted by ICME (**CCF B**)！Congrats to Jialing and Zhen!
 
-![](../images/new.gif) Feb. 2022: One paper accepted by TCSVT (**CCF B**)! Congrats to Ying!
+![](../images/new.gif) Feb. 2023: One paper accepted by TCSVT (**CCF B**)! Congrats to Ying!
 
 ![](../images/new.gif) Jan. 2023: One paper accepted by TIST！Congrats to Hangcheng!
 
