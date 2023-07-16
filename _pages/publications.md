@@ -23,13 +23,19 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2023
 
+* **What can Discriminator do? Towards a Box-free Ownership Verification of Generative Adversarial Networks****
+
+  Ziheng Huang, Boheng Li, Yan Cai, Run Wang,  <u>Shangwei Guo</u>, Liming Fang, Jing Chen, Lina Wang
+
+  *International Conference on Computer Vision (ICCV)*,  **CCF Rank A**
+
 * **Automatic Transformation Search Against Deep Leakage from Gradients**
 
   Wei Gao, Xu Zhang, <u>Shangwei Guo</u>, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu
 
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence*,  **CCF Rank A**
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*,  **CCF Rank A**
 
-* **Contrastive Fusion Representation: Mitigating Adversarial Attacks on VQA Models**
+* **Contrastive Fusion Representation: Mitigating Adversarial Attacks on VQA Models (<font  color=red >Oral</font>)**
 
   Jialing He, Zhen Qin, Hangcheng Liu, <u>Shangwei Guo</u>, Biwen Chen, Ning Wang, Tao Xiang
 
@@ -39,13 +45,13 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Ying Yang, Tao Xiang, <u>Shangwei Guo</u>, Xiao Lv, Hantao Liu, Xiaofeng Liao
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 * **Towards Query Efficient Black-Box Attacks: A Universal Dual Transferability-Based Framework**
 
   Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Wenjian He, Xiaofeng Liao
 
-  *ACM Transactions on Intelligent Systems and Technology*
+  *ACM Transactions on Intelligent Systems and Technology (TIST)*
 
 
 * **[Extracting Robust Models with Uncertain Examples](https://openreview.net/forum?id=cMAjKYftNwx)**
@@ -58,7 +64,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Guowen Xu, Guanlin Li, <u>Shangwei Guo</u>, Tianwei Zhang, Hongwei Li
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 ## 2022
 
@@ -78,19 +84,19 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 * **ESB-FL: Efficient and Secure Blockchain-Based Federated Learning with Fair Payment**
 
   Biwen Chen, Honghong Zeng, Tao Xiang, <u>Shangwei Guo</u>, Tianwei Zhang, Yang Liu
 
-  *IEEE Transactions on Big Data*
+  *IEEE Transactions on Big Data (TBD)*
 
 * **BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion**
 
   Tao Xiang, Honghong Zeng, Biwen Chen, <u>Shangwei Guo</u>
 
-  *ACM Transactions on Multimedia Computing Communications and Applications* **CCF Rank B**
+  *ACM Transactions on Multimedia Computing Communications and Applications (TOMM)* **CCF Rank B**
 
 * **[Triggerless Backdoor Attack for NLP Tasks with Clean Labels](https://arxiv.org/abs/2112.10183)**
 
@@ -98,7 +104,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *North American Chapter of the Association for Computational Linguistics (NAACL)*, **CSL@CQU Rank A**
 
-* **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)<font  color=red > (Spotlight)</font>**
+* **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK) (<font  color=red >Spotlight</font>)**
 
   Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Yaoxin Wu, Tianwei Zhang
 
@@ -114,7 +120,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Tao Xiang, Hangcheng Liu, <u>Shangwei Guo</u>, Yan Gan, Xiaofeng Liao
 
-  *ACM Transactions on Sensor Networks*, **CCF Rank B**
+  *ACM Transactions on Sensor Networks (TOSN)*, **CCF Rank B**
 
 ## 2021
 
@@ -122,19 +128,19 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Yafei Li, Hongyan Gu, Rui Chen, Jianliang Xu, <u>Shangwei Guo</u>, Junxiao Xue, Mingliang Xu
 
-  *IEEE Transactions on Knowledge and Data Engineering*,  **CCF Rank A**
+  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*,  **CCF Rank A**
 
 * **[Byzantine-resilient Decentralized Stochastic Gradient Descent](https://arxiv.org/abs/2002.08569)**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 * **[Topology-aware Differential Privacy for Decentralized Image Classification](https://arxiv.org/abs/2006.07817)**
 
   <u>Shangwei Guo</u>, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 * **[PRNet: A Progressive Recovery Network for Revealing Perceptually Encrypted Images](https://doi.org/10.1145/3474085.3475517)**
 
@@ -152,9 +158,9 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Han Qiu, Yi Zeng, Qinkai Zheng, <u>Shangwei Guo</u>, Tianwei Zhang, Hewu Li
 
-  *IEEE Transactions on Computers*,  **CCF Rank A**
+  *IEEE Transactions on Computers (TC)*,  **CCF Rank A**
 
-* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505)<font  color=red > (Oral)</font>** [[code](https://github.com/gaow0007/ATSPrivacy)]
+* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505) (<font  color=red >Oral</font>)** [[code](https://github.com/gaow0007/ATSPrivacy)]
 
   Wei Gao, <u>Shangwei Guo</u>, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
 
@@ -182,7 +188,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Xiaoguo Li, Tao Xiang,  <u>Shangwei Guo</u>, Hongwei Li, Yi Mu
 
-  *IEEE Transactions on Services Computing*,  **CCF Rank B**
+  *IEEE Transactions on Services Computing (TSC)*,  **CCF Rank B**
 
 ## 2020
 
@@ -204,13 +210,13 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   <u>Shangwei Guo</u>, Jianliang Xu, Ce Zhang, Cheng Xu, Tao Xiang
 
-  *IEEE International Conference on Data Engineering*,  **CCF Rank A**
+  *IEEE International Conference on Data Engineering (ICDE)*,  **CCF Rank A**
 
 * **PEID: A Perceptually Encrypted Image Database for Visual Security Evaluation**
 
   <u>Shangwei Guo</u>, Tao Xiang, Xiaoguo Li, Ying Yang
 
-  *IEEE Transactions on Information Forensics and Security*,   **CCF Rank A**
+  *IEEE Transactions on Information Forensics and Security (TIFS)*,   **CCF Rank A**
 
 * **Towards Efficient Privacy-Preserving Face Recognition in the Cloud**
 
@@ -222,13 +228,13 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Tao Xiang, Ying Yang, Hangcheng Liu, <u>Shangwei Guo</u>
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,  **CCF Rank B**
 
 * **Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches**
 
   Tao Xiang, Ying Yang, <u>Shangwei Guo</u>
 
-  *IEEE Transactions on Multimedia*,  **CCF Rank B**
+  *IEEE Transactions on Multimedia (TMM)*,  **CCF Rank B**
 
 ## 2018 and Before
 
@@ -242,7 +248,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   Tao Xiang, <u>Shangwei Guo</u>, Xiaoguo Li
 
-  *IEEE Transactions on Information Forensics and Security*, **CCF Rank A**
+  *IEEE Transactions on Information Forensics and Security (TIFS)*, **CCF Rank A**
 
 * **Processing secure, verifiable and efficient SQL over outsourced database**
 

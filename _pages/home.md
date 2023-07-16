@@ -20,9 +20,11 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
+![](../images/new.gif) Jun. 2023: One paper accepted by ICCV (**CCF A**)！Congrats!
+
 ![](../images/new.gif) Mar. 2023: One paper accepted by TPAMI (**CCF A**)！Congrats to Wei and Xu!
 
-![](../images/new.gif) Mar. 2023: One paper accepted by ICME (**CCF B**)！Congrats to Jialing and Zhen!
+![](../images/new.gif) Mar. 2023: One paper accepted by ICME <font  color=red >Oral</font> (**CCF B**)！Congrats to Jialing and Zhen!
 
 ![](../images/new.gif) Feb. 2023: One paper accepted by TCSVT (**CCF B**)! Congrats to Ying!
 
