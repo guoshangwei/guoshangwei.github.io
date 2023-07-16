@@ -23,7 +23,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2023
 
-* **What can Discriminator do? Towards a Box-free Ownership Verification of Generative Adversarial Networks****
+* **What can Discriminator do? Towards a Box-free Ownership Verification of Generative Adversarial Networks**
 
   Ziheng Huang, Boheng Li, Yan Cai, Run Wang,  <u>Shangwei Guo</u>, Liming Fang, Jing Chen, Lina Wang
 
