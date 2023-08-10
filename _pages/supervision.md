@@ -7,19 +7,24 @@ redirect_from:
   - /resume
 ---
 * Ph.D. Students:
-  * Hangcheng Liu - Aug 2018 (Co-advised with Prof. Tao Xiang)
+  * Xu Zhang - Aug 2023  (Co-advised with Prof. Tao Xiang)
+  * Chunlong Xie - Aug 2023  (Co-advised with Prof. Tao Xiang)
 
 * Graduate Students:
+  * Jiaqi Zhang - Aug 2023
+  * Shufeng Liu - Aug 2023
+  * Junsen Feng - Aug 2023
+  * Ziming Li - Aug 2023  (Co-advised with Prof. Tao Xiang)
   * Zhichao Zhao - Aug 2022
   * Xiangyi Fang - Aug 2022
   * Hao Wang - Aug 2022  (Co-advised with Prof. Tao Xiang)
-  * Xu Zhang - Aug 2021  (Co-advised with Prof. Tao Xiang)
-  * Chunlong Xie - Aug 2021  (Co-advised with Prof. Tao Xiang)
   * Han Li - Aug 2021
   * Zhen Qin - Aug 2021
   * Zhirui Zeng - Aug 2021
-<!-- # Alumni -->
 
+# Alumni
+
+Hangcheng Liu - 2018-2022 (Co-advised with Prof. Tao Xiang, first job: Research Fellow at Nanyang Technological University, Singapore)
 <!-- * xxx(Research Fellow, 2018-2020, first job: faculty at Chongqing University) -->
 
 <!-- # Teaching -->

@@ -23,6 +23,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2023
 
+* **[Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding](https://arxiv.org/abs/2308.01512)**
+
+  Hangcheng Liu, Tao Xiang, <u>Shangwei Guo</u>, Han Li, Tianwei Zhang, Xiaofeng Liao
+
+  *IEEE Transactions on Information Forensics and Security (TIFS)*, **CCF Rank A**
+
 * **What can Discriminator do? Towards a Box-free Ownership Verification of Generative Adversarial Networks**
 
   Ziheng Huang, Boheng Li, Yan Cai, Run Wang,  <u>Shangwei Guo</u>, Liming Fang, Jing Chen, Lina Wang
