@@ -11,6 +11,7 @@ redirect_from:
   * Chunlong Xie - Aug 2023  (Co-advised with Prof. Tao Xiang)
 
 * Graduate Students:
+  * Chengqian Wu  - Aug 2023
   * Jiaqi Zhang - Aug 2023
   * Shufeng Liu - Aug 2023
   * Junsen Feng - Aug 2023
