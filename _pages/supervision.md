@@ -7,21 +7,27 @@ redirect_from:
   - /resume
 ---
 * Ph.D. Students:
-  * Xu Zhang - Aug 2023  (Co-advised with Prof. Tao Xiang)
-  * Chunlong Xie - Aug 2023  (Co-advised with Prof. Tao Xiang)
+  * Xu Zhang: Jan. 2021-  (Co-advised with Prof. Tao Xiang)
+  * Chunlong Xie: Jan. 2021-  (Co-advised with Prof. Tao Xiang)
 
 * Graduate Students:
-  * Chengqian Wu  - Aug 2023
-  * Jiaqi Zhang - Aug 2023
-  * Shufeng Liu - Aug 2023
-  * Junsen Feng - Aug 2023
-  * Ziming Li - Aug 2023  (Co-advised with Prof. Tao Xiang)
-  * Zhichao Zhao - Aug 2022
-  * Xiangyi Fang - Aug 2022
-  * Hao Wang - Aug 2022  (Co-advised with Prof. Tao Xiang)
-  * Han Li - Aug 2021
-  * Zhen Qin - Aug 2021
-  * Zhirui Zeng - Aug 2021
+  * Chengqian Wu:  Aug. 2023-
+  * Jiaqi Zhang: Aug. 2023-
+  * Shufeng Liu: Aug. 2023-
+  * Junsen Feng: Aug. 2023-
+  * Ziming Li: Aug. 2023- (Co-advised with Prof. Tao Xiang)
+  * Zhichao Zhao: Aug. 2022-
+  * Xiangyi Fang: Aug. 2022-
+  * Hao Wang: Aug. 2022- (Co-advised with Prof. Tao Xiang)
+  * Han Li: Aug. 2021-
+  * Zhen Qin: Aug. 2021-
+  * Zhirui Zeng: Aug. 2021-
+
+* Undergraduate Student:
+  * Yifei Chen: May 2023
+  * Tianhao Wu: Jun. 2023
+  * Weihan Jiang: Oct. 2023
+
 
 # Alumni
 

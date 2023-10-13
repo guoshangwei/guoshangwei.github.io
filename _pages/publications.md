@@ -23,6 +23,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2023
 
+* **[Text Classification via Large Language Models](https://arxiv.org/abs/2305.08377)**
+
+  Xiaofei Sun, Xiaoya Li, Jiwei Li, Fei Wu, <u>Shangwei Guo</u>, Tianwei Zhang, Guoyin Wang
+
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, **CCF Rank B**
+
 * **[Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding](https://arxiv.org/abs/2308.01512)**
 
   Hangcheng Liu, Tao Xiang, <u>Shangwei Guo</u>, Han Li, Tianwei Zhang, Xiaofeng Liao
