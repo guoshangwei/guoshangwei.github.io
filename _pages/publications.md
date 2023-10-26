@@ -21,13 +21,28 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *Pre-print*
 
-## 2023
+## 2024
 
 * **[Text Classification via Large Language Models](https://arxiv.org/abs/2305.08377)**
 
   Xiaofei Sun, Xiaoya Li, Jiwei Li, Fei Wu, <u>Shangwei Guo</u>, Tianwei Zhang, Guoyin Wang
 
   *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, **CCF Rank B**
+
+## 2023
+
+* **The Illusion of Visual Security: Reconstructing Perceptually Encrypted Images**
+
+  Ying Yang, Tao Xiang, Xiao Lv, <u>Shangwei Guo</u>, Tieyong Zeng
+
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, **CCF Rank B**
+
+
+* **Mercury: An Automated Remote Side-channel Attack to Nvidia Deep Learning Accelerator**
+
+  Xiaobei Yan, Xiaoxuan Lou, Guowen Xu, Han Qiu, <u>Shangwei Guo</u>, Chip Hong Chang, Tianwei Zhang
+
+  *International Conference on Field Programmable Technology (FPT)*, **CCF Rank C**
 
 * **[Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding](https://arxiv.org/abs/2308.01512)**
 
