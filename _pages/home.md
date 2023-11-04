@@ -12,8 +12,8 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 ### Interests
 
 - Multimedia Security and Privacy
-- Machine Learning Security
-- Trustworthy AI Robot
+- Embodied Intelligence Security
+
 
 <!-- ## Education
 - PhD in Computer Science, 2017  <font  color=gray size=3>Chongqing University</font>
