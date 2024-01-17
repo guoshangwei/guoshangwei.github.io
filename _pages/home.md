@@ -20,6 +20,13 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
+
+![](../images/new.gif) Jan. 2024: One paper accepted by ICLR (**CSL@CQU A**)！Congrats to Yutong!
+
+![](../images/new.gif) Dec. 2023: We are funded by **Chengdu Key R&D Program of China** (成都重点研发计划)！
+
+![](../images/new.gif) Oct. 2023: Prof. Xiaoliang Fan ([范晓亮](https://cs.xmu.edu.cn/info/1010/2047.htm)), Xiamen University, gave an  talk.
+
 ![](../images/new.gif) Oct. 2023: One paper accepted by TCSVT (**CCF B**)！Congrats Ying!
 
 ![](../images/new.gif) Oct. 2023: One paper accepted by FPT！Congrats Xiaobin and Xiaoxuan!

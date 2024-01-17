@@ -23,6 +23,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2024
 
+* **[You Only Query Once: An Efficient Label-Only Membership Inference Attack](https://openreview.net/forum?id=7WsivwyHrS)**
+
+  Yutong Wu, Han Qiu, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
+
+  *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A**
+
 * **[Text Classification via Large Language Models](https://arxiv.org/abs/2305.08377)**
 
   Xiaofei Sun, Xiaoya Li, Jiwei Li, Fei Wu, <u>Shangwei Guo</u>, Tianwei Zhang, Guoyin Wang
