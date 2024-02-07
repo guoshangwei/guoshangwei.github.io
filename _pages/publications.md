@@ -23,6 +23,12 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2024
 
+* **Efficient Group Key Generation Based on Satellite Cluster State Information for Drone Swarm**
+
+  Ning Wang, Jixuan Duan, Biwen Chen, <u>Shangwei Guo</u>, Tao Xiang, Kai Zeng
+
+  *IEEE Transactions on Information Forensics and Security (TIFS)*,   **CCF Rank A**
+
 * **[You Only Query Once: An Efficient Label-Only Membership Inference Attack](https://openreview.net/forum?id=7WsivwyHrS)**
 
   Yutong Wu, Han Qiu, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
