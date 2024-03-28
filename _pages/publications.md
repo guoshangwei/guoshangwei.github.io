@@ -23,6 +23,18 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2024
 
+* **Contrast-then-Approximate: Analyzing Keyword Leakage of Generative Language Models**
+
+  Zhirui Zeng, Tao Xiang, <u>Shangwei Guo</u>, Jialing He, Qiao Zhang, Guowen Xu, Tianwei Zhang
+
+  *IEEE Transactions on Information Forensics and Security (TIFS)*,   **CCF Rank A**
+
+  * **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
+
+  Xiaoxuan Lou, Kangjie Chen, Guowen Xu, Han Qiu, <u>Shangwei Guo</u>, Tianwei Zhang
+
+  *Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*,   **CCF Rank B**
+
 * **Efficient Group Key Generation Based on Satellite Cluster State Information for Drone Swarm**
 
   Ning Wang, Jixuan Duan, Biwen Chen, <u>Shangwei Guo</u>, Tao Xiang, Kai Zeng
