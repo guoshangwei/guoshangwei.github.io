@@ -29,7 +29,7 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *IEEE Transactions on Information Forensics and Security (TIFS)*,   **CCF Rank A**
 
-  * **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
+* **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
 
   Xiaoxuan Lou, Kangjie Chen, Guowen Xu, Han Qiu, <u>Shangwei Guo</u>, Tianwei Zhang
 
