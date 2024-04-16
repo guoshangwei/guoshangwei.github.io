@@ -21,6 +21,10 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
+![](../images/new.gif) Apr. 2024: One paper accepted by Euro S&P！Congrats to Guanlin!
+
+![](../images/new.gif) Apr. 2024: One paper accepted by ICS (**CCF B**)！Congrats to Wei!
+
 ![](../images/new.gif) Mar. 2024: One paper accepted by TIFS (**CCF A**)！Congrats to Zhirui!
 
 ![](../images/new.gif) Mar. 2024: One paper accepted by DSN (**CCF B**)！Congrats to Xiaoxuan!

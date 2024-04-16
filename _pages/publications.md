@@ -23,6 +23,18 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2024
 
+* **Fingerprinting Image-to-Image Generative Adversarial Networks**
+
+  Guanlin Li, Guowen Xu, Han Qiu, <u>Shangwei Guo</u>, Run Wang, Jiwei Li, Tianwei Zhang, Longxing Lu
+
+  *IEEE European Symposium on Security and Privacy (Euro S&P)*
+
+* **AutoSched: An Adaptive Self-configured Framework for Scheduling Deep Learning Training Workloads**
+
+  Wei Gao, Xu Zhang, Shan Huang, <u>Shangwei Guo</u>, Peng Sun, Yonggang Wen, Tianwei Zhang
+
+  *ACM International Conference on Supercomputing (ICS)*,   **CCF Rank B**
+
 * **Contrast-then-Approximate: Analyzing Keyword Leakage of Generative Language Models**
 
   Zhirui Zeng, Tao Xiang, <u>Shangwei Guo</u>, Jialing He, Qiao Zhang, Guowen Xu, Tianwei Zhang
