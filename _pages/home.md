@@ -11,8 +11,8 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ### Interests
 
+- Pre-trained Model Security
 - Multimedia Security and Privacy
-- Pre-trained Model and Data Security
 
 
 <!-- ## Education
@@ -20,6 +20,10 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 - BSc in Mathematics, 2012   <font  color=gray size=3>Henan Normal University</font> -->
 
 # News
+
+![](../images/new.gif) Jul. 2024: One paper accepted by ACM MM (**CCF A**)！Congrats to Hao!
+
+![](../images/new.gif) May. 2024: One survey paper accepted by Artificial Intelligence Review！Congrats to Fei!
 
 ![](../images/new.gif) Apr. 2024: One paper accepted by Euro S&P！Congrats to Guanlin!
 

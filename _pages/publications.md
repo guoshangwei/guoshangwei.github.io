@@ -9,12 +9,6 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## Survey
 
-* **[Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey](https://arxiv.org/abs/2112.10183)** [[paper list](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
-
-  <u>Shangwei Guo</u>, Xu Zhang, Fei Yang, Tianwei Zhang, Yan Gan, Tao Xiang, Yang Liu
-
-  *Pre-print*
-
 * **[Threats to Pre-trained Language Models: Survey and Taxonomy](https://arxiv.org/abs/2202.06862)**
 
   <u>Shangwei Guo</u>, Chunlong Xie, Tao Xiang, Jiwei Li, Lingjuan Lyu, Tianwei Zhang
@@ -22,6 +16,19 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
   *Pre-print*
 
 ## 2024
+
+
+* **EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second**
+
+  Hao Wang, <u>Shangwei Guo</u>, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang
+  
+  *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
+
+* **Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey** [[paper list](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
+
+  Fei Yang, Xu Zhang, <u>Shangwei Guo</u>, Daiyuan Chen, Yan Gan, Tao Xiang, Yang Liu
+
+  *Artificial Intelligence Review*
 
 * **Fingerprinting Image-to-Image Generative Adversarial Networks**
 

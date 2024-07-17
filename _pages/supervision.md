@@ -19,9 +19,7 @@ redirect_from:
   * Zhichao Zhao: Aug. 2022-
   * Xiangyi Fang: Aug. 2022-
   * Hao Wang: Aug. 2022- (Co-advised with Prof. Tao Xiang)
-  * Han Li: Aug. 2021-
-  * Zhen Qin: Aug. 2021-
-  * Zhirui Zeng: Aug. 2021-
+
 
 * Undergraduate Student:
   * Yifei Chen: May 2023
@@ -31,7 +29,10 @@ redirect_from:
 
 # Alumni
 
-Hangcheng Liu - 2018-2022 (Co-advised with Prof. Tao Xiang, first job: Research Fellow at Nanyang Technological University, Singapore)
+* Hangcheng Liu: 2018-2022 (Co-advised with Prof. Tao Xiang, first job: Research Fellow at Nanyang Technological University, Singapore)
+* Han Li: Aug. 2021-Jul. 2024 (JD)
+* Zhen Qin: Aug. 2021-Jul. 2024 (Ph.D. University of Auckland, New Zealand)
+* Zhirui Zeng: Aug. 2021-Jul. 2024 (MeiTuan)
 <!-- * xxx(Research Fellow, 2018-2020, first job: faculty at Chongqing University) -->
 
 <!-- # Teaching -->
