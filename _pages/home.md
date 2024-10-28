@@ -21,9 +21,9 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
-![](../images/new.gif) Jul. 2024: One paper accepted by NeurIPS (**CCF A**)！Congrats to Hangcheng!
+![](../images/new.gif) Sep. 2024: One paper accepted by NeurIPS (**CCF A**)！Congrats to Hangcheng!
 
-![](../images/new.gif) Oct. 2021: We are funded by **National Natural Science Foundation of China**（面上项目）！
+![](../images/new.gif) Aug. 2021: We are funded by **National Natural Science Foundation of China**（面上项目）！
 
 ![](../images/new.gif) Jul. 2024: One paper accepted by FCS (**Best Paper Award**)！Congrats to Hangcheng!
 
