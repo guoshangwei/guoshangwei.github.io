@@ -17,11 +17,24 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2024
 
+* **Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation**
+
+  Hangcheng Liu, Zhenhu Wu, Hao Wang, Xingshuo Han, <u>Shangwei Guo</u>, Tao Xiang, Tianwei Zhang
+
+  *Conference on Neural Information Processing Systems (NeurIPS)*,  **CCF Rank A**
+
+
+* **Locate-then-Reveal: Enhancing the Playload Capacity of Multi-Image Hiding (<font  color=red >Best Paper Award</font>)**
+
+  Hangcheng Liu, Xiaoguo Li, <u>Shangwei Guo</u>, Han Li, Jialing He, Ying Yang, Ning Wang, and Qingchuan Zhao
+
+  *International Conference on Frontiers in Cyber Security (FCS)*
+
 
 * **EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second**
 
   Hao Wang, <u>Shangwei Guo</u>, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang
-  
+
   *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
 
 * **Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey** [[paper list](https://github.com/csl-cqu/awesome-secure-collebrative-learning-papers)] [[code](https://github.com/csl-cqu/Roubst-and-Privacy-preserving-Federated-Learning-System)]
