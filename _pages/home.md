@@ -92,7 +92,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) May 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
 
-![](../images/new.gif) May. 2022: Prof. Fei Yang (杨非), Zhejiang Lab, gave an online talk.
+<!-- ![](../images/new.gif) May. 2022: Prof. Fei Yang (杨非), Zhejiang Lab, gave an online talk. -->
 
 ![](../images/new.gif) Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
 
