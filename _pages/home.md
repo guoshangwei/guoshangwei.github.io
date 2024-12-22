@@ -45,7 +45,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Dec. 2023: We are funded by **Chengdu Key R&D Program of China** (成都重点研发计划)！
 
-![](../images/new.gif) Oct. 2023: Prof. Xiaoliang Fan ([范晓亮](https://cs.xmu.edu.cn/info/1010/2047.htm)), Xiamen University, gave an  talk.
+<!-- ![](../images/new.gif) Oct. 2023: Prof. Xiaoliang Fan ([范晓亮](https://cs.xmu.edu.cn/info/1010/2047.htm)), Xiamen University, gave an  talk. -->
 
 ![](../images/new.gif) Oct. 2023: One paper accepted by TCSVT (**CCF B**)！Congrats Ying!
 
@@ -72,19 +72,19 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Dec. 2022: We are funded by **National Key R&D Program of China** (国家重点研发计划)！
 
-![](../images/new.gif) Oct. 2022: Prof. Run Wang ([汪润](http://wangrun.github.io)), Wuhan University, gave an online talk.
+<!-- ![](../images/new.gif) Oct. 2022: Prof. Run Wang ([汪润](http://wangrun.github.io)), Wuhan University, gave an online talk. -->
 
-![](../images/new.gif) Oct. 2022: Prof. Guozhu Meng ([孟国柱](https://impillar.github.io/)), Institute of Information Engineering, Chinese Academy of Sciences, gave an online talk.
+<!-- ![](../images/new.gif) Oct. 2022: Prof. Guozhu Meng ([孟国柱](https://impillar.github.io/)), Institute of Information Engineering, Chinese Academy of Sciences, gave an online talk. -->
 
-![](../images/new.gif) Aug. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi‘an Jiaotong University, gave an online talk.
+<!-- ![](../images/new.gif) Aug. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi‘an Jiaotong University, gave an online talk. -->
 
 ![](../images/new.gif) Jul. 2022: We are funded by **CCF-Tencent Open Fund** (CCF-腾讯犀牛基金)！
 
 ![](../images/new.gif) Jun. 2022: Our team won the **First Prize of Chongqing Science and Technology Progress Award** (重庆市科技进步一等奖）!
 
-![](../images/new.gif) Jun. 2022: Prof. Yafei Li ([李亚飞](https://zzudb.github.io/yfli/)), Zhengzhou University, gave an online talk.
+<!-- ![](../images/new.gif) Jun. 2022: Prof. Yafei Li ([李亚飞](https://zzudb.github.io/yfli/)), Zhengzhou University, gave an online talk. -->
 
-![](../images/new.gif) Jun. 2022: Prof. Sen Chen ([陈森](https://sen-chen.github.io/)), Tianjin University, gave an online talk.
+<!-- ![](../images/new.gif) Jun. 2022: Prof. Sen Chen ([陈森](https://sen-chen.github.io/)), Tianjin University, gave an online talk. -->
 
 ![](../images/new.gif) Jun. 2022: Two paper accepted by ACM MM (**CCF A**)!
 
