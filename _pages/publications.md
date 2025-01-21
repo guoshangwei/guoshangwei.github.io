@@ -15,6 +15,21 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
   *Pre-print*
 
+## 2025
+
+* **Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability (<font  color=red >Oral</font>)**
+
+  Hao Wang, <u>Shangwei Guo</u>, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang
+
+  *ACM Web Conference (WWW)*,  **CCF Rank A**
+
+* **Deep Face Leakage: Inverting High-quality Faces from Gradients Using Residual Optimization**
+
+  Xu Zhang, Tao Xiang， <u>Shangwei Guo</u>, Fei Yang, Tianwei Zhang
+
+  *IEEE Transactions on Image Processing (TIP)*,  **CCF Rank A**
+
+
 ## 2024
 
 * **Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation**
