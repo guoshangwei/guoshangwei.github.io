@@ -21,7 +21,8 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
-![](../images/new.gif) Jan. 2025: One paper accepted by WWW (**CCF A**)！Congrats to Hao!
+
+![](../images/new.gif) Jan. 2025: One paper accepted by WWW <font  color=red >Oral</font> (**CCF A**)！Congrats to Hao!
 
 ![](../images/new.gif) Jan. 2025: One paper accepted by TIP (**CCF A**)！Congrats to Xu!
 
@@ -64,7 +65,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Mar. 2023: One paper accepted by TPAMI (**CCF A**)！Congrats to Wei and Xu!
 
-![](../images/new.gif) Mar. 2023: One paper accepted by ICME <font  color=red >Oral</font> (**CCF B**)！Congrats to Jialing and Zhen!
+![](../images/new.gif) Mar. 2023: One paper accepted by ICME <span class="oral">Oral</span> (**CCF B**)！Congrats to Jialing and Zhen!
 
 ![](../images/new.gif) Feb. 2023: One paper accepted by TCSVT (**CCF B**)! Congrats to Ying!
 
@@ -80,7 +81,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 <!-- ![](../images/new.gif) Oct. 2022: Prof. Guozhu Meng ([孟国柱](https://impillar.github.io/)), Institute of Information Engineering, Chinese Academy of Sciences, gave an online talk. -->
 
-<!-- ![](../images/new.gif) Aug. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi‘an Jiaotong University, gave an online talk. -->
+<!-- ![](../images/new.gif) Aug. 2022: Prof. Ming Fan ([范铭](http://gr.xjtu.edu.cn/web/mingfan)), Xi'an Jiaotong University, gave an online talk. -->
 
 ![](../images/new.gif) Jul. 2022: We are funded by **CCF-Tencent Open Fund** (CCF-腾讯犀牛基金)！
 
@@ -102,7 +103,7 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Apr. 2022: One paper accepted by NAACL (**CSL@CQU A**)! Congrats to Leilei!
 
-![](../images/new.gif) Jan. 2022: Two papers accepted by ICLR (one <font  color=red >spotlight</font> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
+![](../images/new.gif) Jan. 2022: Two papers accepted by ICLR (one <span class="oral">spotlight</span> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
 
 ![](../images/new.gif) Jan. 2022: Our paper accepted by TOSN (**CCF B**). Congrats to Hangcheng!
 
@@ -124,11 +125,15 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 ![](../images/new.gif) Apr. 2021: One paper accepted by TC (**CCF A**)!
 
-![](../images/new.gif) Mar. 2021: One paper accepted by CVPR <font  color=red >Oral</font> (**CCF A**)!
+![](../images/new.gif) Mar. 2021: One paper accepted by CVPR <span class="oral">Oral</span> (**CCF A**)!
 
 ![](../images/new.gif) Feb. 2021: Two papers accepted by AsiaCCS (**CSL@CQU A**)!
 
 
 ### Quick Links
 
-[Cybersecurity Lab@CQU](https://github.com/csl-cqu) &ensp;&ensp; [CSL@CQU推荐会议期刊目录](https://github.com/csl-cqu/Conference-Journal-Ranks) &ensp;&ensp; [Best Paper Lists](https://jeffhuang.com/best_paper_awards/) &ensp;&ensp; [AI Conference Deadlines](https://aideadlin.es/?sub=ML) [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
+🔗 [Lab Website](https://github.com/csl-cqu)
+📚 [Conference Rankings](https://github.com/csl-cqu/Conference-Journal-Ranks)
+🏆 [Best Paper Lists](https://jeffhuang.com/best_paper_awards/)
+⏳ [AI Deadlines](https://aideadlin.es/?sub=ML)
+🛡️ [Security Deadlines](https://sec-deadlines.github.io/)
