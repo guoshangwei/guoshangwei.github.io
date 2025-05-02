@@ -17,6 +17,27 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2025
 
+* **BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach**
+
+  Haozhao Wang, Shengyu Wang, Jiaming Li, Hao Ren, Xingshuo Han, Wenchao Xu, <u>Shangwei Guo</u>, Tianwei Zhang, Ruixuan Li
+
+  *International Conference on Machine Learning (ICML)*,  **CCF Rank A**
+
+
+* **TRUST-VLM: Thorough Red-Teaming for Uncovering Safety Threats in Vision-Language Models**
+
+  Kangjie Chen, Li Muyang, Guanlin Li, Shudong Zhang, <u>Shangwei Guo</u>, Tianwei Zhang
+
+  *International Conference on Machine Learning (ICML)*,  **CCF Rank A**
+
+
+* **Advancing Non-Intrusive Load Monitoring: Predicting Appliance-Level Power Consumption With Indirect Supervision**
+
+  Jialing He, Junsen Feng, <u>Shangwei Guo</u>, Zhuo Chen, Yiwei Liu, Tao Xiang, Liehuang Zhu
+
+  *IEEE Transactions on Network Science and Engineering (TNSE)*
+
+
 * **Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability (<font  color=red >Oral</font>)**
 
   Hao Wang, <u>Shangwei Guo</u>, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang

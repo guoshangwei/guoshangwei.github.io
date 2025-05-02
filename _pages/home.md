@@ -21,8 +21,11 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
+![](../images/new.gif) May. 2025: Two paper accepted by ICML (**CCF A**)！Congrats to Kangjie and Haozhao!
 
-![](../images/new.gif) Jan. 2025: One paper accepted by WWW <font  color=red >Oral</font> (**CCF A**)！Congrats to Hao!
+![](../images/new.gif) Mar. 2025: One paper accepted by TNSE！Congrats to Jialing!
+
+![](../images/new.gif) Jan. 2025: One paper accepted by WWW <span class="oral">Oral</span> (**CCF A**)！Congrats to Hao!
 
 ![](../images/new.gif) Jan. 2025: One paper accepted by TIP (**CCF A**)！Congrats to Xu!
 
@@ -137,18 +140,3 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 🏆 [Best Paper Lists](https://jeffhuang.com/best_paper_awards/)
 ⏳ [AI Deadlines](https://aideadlin.es/?sub=ML)
 🛡️ [Security Deadlines](https://sec-deadlines.github.io/)
-
-<style>
-.ccf-a { color: #c00; font-weight: bold; }
-.oral { color: #090; font-weight: bold; }
-.best-paper { color: #06c; font-weight: bold; }
-.news-icon { margin-right: 5px; }
-.new-item {
-    display: inline-block;
-    background: #ff4444;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-size: 0.8em;
-}
-</style>

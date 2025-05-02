@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 新增新闻相关样式 */
+.ccf-a {
+  color: #c00;
+  font-weight: bold;
+}
+
+.oral {
+  color: #090;
+  font-weight: bold;
+}
+
+.best-paper {
+  color: #06c;
+  font-weight: bold;
+}
+
+.news-icon {
+  margin-right: 5px;
+}
+
+.new-item {
+  display: inline-block;
+  background: #ff4444;
+  color: white;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 0.8em;
+}
