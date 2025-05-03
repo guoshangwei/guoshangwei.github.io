@@ -19,16 +19,6 @@ redirect_from:
   * Jiaqi Zhang: Aug. 2023-
   * Shufeng Liu: Aug. 2023-
   * Junsen Feng: Aug. 2023-
-  <!-- * Ziming Li: Aug. 2023- (Co-advised with Prof. Tao Xiang)
-  * Zhichao Zhao: Aug. 2022-
-  * Xiangyi Fang: Aug. 2022- -->
-
-
-<!--
-* Undergraduate Student:
-  * Yifei Chen: May 2023
-  * Tianhao Wu: Jun. 2023
-  * Weihan Jiang: Oct. 2023 -->
 
 
 # Alumni
