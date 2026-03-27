@@ -21,6 +21,16 @@ Shangwei is an associate professor in the College of Computer Science, Chongqing
 
 # News
 
+![](../images/new.gif) Nov. 2025: One paper accepted by TDSC (**CCF A**)！Congrats to Chunlong!
+
+![](../images/new.gif) Nov. 2025: One paper accepted by AAAI (**CCF A**)！Congrats to Xu!
+
+![](../images/new.gif) Oct. 2025: One paper accepted by ACSAC (**CCF A**)！Congrats to Yuan!
+
+![](../images/new.gif) Sep. 2025: One paper accepted by NeurIPS <span class="oral">Spotlight</span> (**CCF A**)！Congrats to Chunlong!
+
+![](../images/new.gif) Jul. 2025: One paper accepted by TMC (**CCF A**)！Congrats to Jialing!
+
 ![](../images/new.gif) May. 2025: Two paper accepted by ICML (**CCF A**)！Congrats to Kangjie and Haozhao!
 
 ![](../images/new.gif) Mar. 2025: One paper accepted by TNSE！Congrats to Jialing!

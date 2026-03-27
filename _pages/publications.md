@@ -17,6 +17,43 @@ A complete list can be found in [Google Scholar](https://scholar.google.com/cita
 
 ## 2025
 
+
+* **ShadeEdit: A Utility-Preserving and Defense-Evasive Knowledge Manipulation Attack in Federated LLMs**
+
+  Xu Zhang, Hangcheng Liu, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
+
+  *AAAI Conference on Artificial Intelligence (AAAI)*,  **CCF Rank A**
+
+* **Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models**
+
+  Chunlong Xie, Kangjie Chen, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
+
+  *Conference on Neural Information Processing Systems (NeurIPS)*,  **CCF Rank A**
+
+* **Controllable Spoofing Attacks on Visual SLAM in Robotic Vehicles**
+
+  Yuan Xu, Gelei Deng, Guanlin Li, Xingshuo Han, Shangwei Guo, Tianwei Zhang
+
+  *ACM Annual Computer Security Applications Conference (ACSAC)*,  **CCF Rank B**
+
+* **Ownership Verification of Your NLG Models with Semantic Combination Watermarks**
+
+  Chunlong Xie, Tao Xiang, Shangwei Guo, Biwen Chen, Ning Wang, Jiwei Li, Tianwei Zhang
+
+  *IEEE Transactions on Dependable and Secure Computing (TDSC)*,   **CCF Rank A**
+
+* **Semantic and Precise Trigger Inversion: Detecting Backdoored Language Models**
+
+  Chunlong Xie, Jialing He, Ying Yang, Shangwei Guo, Tianwei Zhang, Tao Xiang
+
+  *IEEE Transactions on Information Forensics and Security (TIFS)*,   **CCF Rank A**
+
+* **Preventing non-intrusive load monitoring privacy invasion: A precise adversarial attack scheme for networked smart meters**
+
+  Jialing He, Jiacheng Wang, Ning Wang, Shangwei Guo, Liehuang Zhu, Dusit Niyato, Tao Xiang
+
+  *IEEE Transactions on Mobile Computing (TMC)*,   **CCF Rank A**
+
 * **BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach**
 
   Haozhao Wang, Shengyu Wang, Jiaming Li, Hao Ren, Xingshuo Han, Wenchao Xu, <u>Shangwei Guo</u>, Tianwei Zhang, Ruixuan Li

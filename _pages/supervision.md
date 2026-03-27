@@ -12,10 +12,11 @@ redirect_from:
   * Hao Wang: Aug. 2022- (Co-advised with Prof. Tao Xiang)
 
 * Graduate Students:
-  *Xinhao Gong:  Aug. 2024-
-  *Tianyi Si:  Aug. 2024-
-  *Xu Kuang:  Aug. 2024-
-  *Chengqian Wu:  Aug. 2023-
+  * Siheng Zhang: Aug. 2025-
+  * Xinhao Gong: Aug. 2024-
+  * Tianyi Si: Aug. 2024-
+  * Xu Kuang: Aug. 2024-
+  * Chengqian Wu: Aug. 2023-
   * Jiaqi Zhang: Aug. 2023-
   * Shufeng Liu: Aug. 2023-
   * Junsen Feng: Aug. 2023-
